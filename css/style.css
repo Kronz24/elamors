@@ -1,0 +1,51 @@
+body{
+   background: url(../img/Dayanna\ y\ yo.jpeg);
+    text-align: center;
+    margin-top: 80px;
+    
+}
+
+h1{
+    color: #000000;
+    font-size: 65px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+
+h2{
+    text-align: right;
+    color: #d60b0b;
+}
+p{
+    color: #d3cfcf;
+    margin-left: 50px;
+    text-align: left;
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+    margin: 50px;
+    padding: 12px 40px;
+    background: #0021db;
+    color:#ffffff;
+    border: 3px solid #ffffff;
+    border-radius: 20px; /*border-radius genera un borde redondeado*/
+    font-weight: 700;
+    transition: .5s;
+}
+h3{
+    text-align: right;
+    color: #000000;
+    
+}
+h4{
+    text-align: right;
+    color: #ffffff;
+
+
+
+}
